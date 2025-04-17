@@ -737,11 +737,8 @@ display: none;
     width: 100%;
     text-align: left;
     padding: 2rem;
+     padding-top: 5rem;
   }
-
-    .intro {
-        padding-top: 3rem;
-    }
 
   .about-section {
     font-size: 1.5rem;
