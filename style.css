@@ -179,6 +179,7 @@ body {
   .circle-one {
     background-color: var(--verdino);
     left: 0;
+      top: 30;
   }
   
   .circle-two {
