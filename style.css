@@ -739,6 +739,10 @@ display: none;
     padding: 2rem;
   }
 
+    .intro {
+        padding-top: 3rem;
+    }
+
   .about-section {
     font-size: 1.5rem;
     padding: 1.5rem;
