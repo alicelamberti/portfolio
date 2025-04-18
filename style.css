@@ -162,7 +162,7 @@ body {
 
   .scroll-circle {
     position: absolute;
-    transform: translateY(-46%);
+    transform: translateY(-50%);
     top: 46%;
     width: 53vh;
     height: 53vh;
