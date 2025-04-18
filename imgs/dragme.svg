@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Livello_1" data-name="Livello 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.82 21.82">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        font-family: SpaceGrotesk-Light, 'Space Grotesk';
+        font-size: 3.38px;
+        font-variation-settings: 'wght' 300;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <polygon points="1.27 8.21 4.44 7.03 3.87 3.69 7.21 4.26 8.39 1.08 11 3.25 13.61 1.08 14.78 4.26 18.13 3.69 17.55 7.03 20.73 8.21 18.57 10.82 20.73 13.43 17.55 14.6 18.13 17.94 14.78 17.37 13.61 20.55 11 18.39 8.39 20.55 7.21 17.37 3.87 17.94 4.44 14.6 1.27 13.43 3.43 10.82 1.27 8.21"/>
+  <text class="cls-1" transform="translate(6.42 10.32) rotate(-69.8)"><tspan x="0" y="0">D</tspan></text>
+  <text class="cls-1" transform="translate(7.17 8.43) rotate(-50)"><tspan x="0" y="0">r</tspan></text>
+  <text class="cls-1" transform="translate(7.8 7.55) rotate(-32.2)"><tspan x="0" y="0">a</tspan></text>
+  <text class="cls-1" transform="translate(9.22 6.58) rotate(-9.05)"><tspan x="0" y="0">g</tspan></text>
+  <text class="cls-1" transform="translate(11.2 6.33) rotate(8.19)"><tspan x="0" y="0"> </tspan></text>
+  <text class="cls-1" transform="translate(11.95 6.21) rotate(29.85)"><tspan x="0" y="0">m</tspan></text>
+  <text class="cls-1" transform="translate(14.23 7.56) rotate(57.53)"><tspan x="0" y="0">e</tspan></text>
+  <text class="cls-1" transform="translate(15.17 9.16) rotate(73.37)"><tspan x="0" y="0">!</tspan></text>
+</svg>
