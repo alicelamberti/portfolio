@@ -105,6 +105,7 @@ body {
   .about {
   background-color: var(--nero);
   width: 100%;
+      z-index: 4;
   }
 
   
@@ -139,12 +140,6 @@ body {
   margin-right: 2rem; 
 }
 
-.personal-section iframe {
-  width: 100%; 
-  max-width: 400px; 
-  height: auto;
-  aspect-ratio: 16 / 10; 
-}
   
   .social-section {
     text-align: center;
