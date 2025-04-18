@@ -71,7 +71,7 @@ body {
       background-image: none;
       width: 60px;
       height: 60px;
-      opacity: 3; /* se vuoi proprio nasconderlo del tutto */
+      opacity: 5; 
     }
 
     .site-wide.active {
@@ -295,10 +295,10 @@ body {
   
   .custom-cursor.flower-hover {
     background-image: url('imgs/dragme.svg');
-    background-size: 100px 100px; /* Aumenta qui per farlo più grande */
+    background-size: 100px 100px; 
     background-repeat: no-repeat;
     background-position: center;
-    width: 100px; /* Assicurati che il div sia abbastanza grande */
+    width: 100px; 
     height: 100px;
   }
   
