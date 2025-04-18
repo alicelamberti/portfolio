@@ -20,4 +20,12 @@ if (cursor) {
     card.addEventListener("mouseenter", () => cursor.classList.add("active"));
     card.addEventListener("mouseleave", () => cursor.classList.remove("active"));
   });
+
+  const flower = document.querySelector("#draggable");
+
+if (flower) {
+  flower.addEventListener("mouseenter", () => cursor.classList.add("flower-hover"));
+  flower.addEventListener("mouseleave", () => cursor.classList.remove("flower-hover"));
+};
 }
+
