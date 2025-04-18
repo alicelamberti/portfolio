@@ -66,6 +66,14 @@ body {
       mix-blend-mode: normal; 
     }
 
+    .custom-cursor.flower-hover {
+      background-color: transparent;
+      background-image: none;
+      width: 60px;
+      height: 60px;
+      opacity: 3; /* se vuoi proprio nasconderlo del tutto */
+    }
+
     .site-wide.active {
       width: 100px;
       height: 100px;
@@ -162,10 +170,10 @@ body {
 
   .scroll-circle {
     position: absolute;
-    transform: translateY(-50%);
+    transform: translateY(-46%);
     top: 46%;
-    width: 53vh;
-    height: 53vh;
+    width: 55vh;
+    height: 55vh;
     border-radius: 50%;
     z-index: 0;
     pointer-events: none;
@@ -278,14 +286,21 @@ body {
   background: transparent;
   border: none;
   position: relative;
-  cursor: url('imgs/dragme.svg'), auto;
   }
   
   #draggable img {
   mix-blend-mode: multiply; 
   opacity: 1; 
   } 
-
+  
+  .custom-cursor.flower-hover {
+    background-image: url('/imgs/dragme.svg');
+    background-size: 100px 100px; /* Aumenta qui per farlo più grande */
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100px; /* Assicurati che il div sia abbastanza grande */
+    height: 100px;
+  }
   
 
  /*stili pagina progetti*/
