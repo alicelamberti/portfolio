@@ -294,7 +294,7 @@ body {
   } 
   
   .custom-cursor.flower-hover {
-    background-image: url('/imgs/dragme.svg');
+    background-image: url('imgs/dragme.svg');
     background-size: 100px 100px; /* Aumenta qui per farlo più grande */
     background-repeat: no-repeat;
     background-position: center;
