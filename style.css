@@ -71,7 +71,7 @@ body {
       background-image: none;
       width: 60px;
       height: 60px;
-      opacity: 5; 
+      opacity: 3; /* se vuoi proprio nasconderlo del tutto */
     }
 
     .site-wide.active {
@@ -105,7 +105,7 @@ body {
   .about {
   background-color: var(--nero);
   width: 100%;
-      z-index: 4;
+  z-index: 4;
   }
 
   
@@ -140,6 +140,12 @@ body {
   margin-right: 2rem; 
 }
 
+.personal-section iframe {
+  width: 100%; 
+  max-width: 400px; 
+  height: auto;
+  aspect-ratio: 16 / 10; 
+}
   
   .social-section {
     text-align: center;
@@ -170,7 +176,7 @@ body {
     width: 55vh;
     height: 55vh;
     border-radius: 50%;
-    z-index: -1;
+    z-index: 0;
     pointer-events: none;
   }
 
@@ -290,10 +296,10 @@ body {
   
   .custom-cursor.flower-hover {
     background-image: url('imgs/dragme.svg');
-    background-size: 100px 100px; 
+    background-size: 100px 100px; /* Aumenta qui per farlo più grande */
     background-repeat: no-repeat;
     background-position: center;
-    width: 100px; 
+    width: 100px; /* Assicurati che il div sia abbastanza grande */
     height: 100px;
   }
   
